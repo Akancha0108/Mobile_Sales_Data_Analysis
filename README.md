@@ -19,7 +19,7 @@ An interactive Power BI dashboard designed to analyze and visualize mobile phone
 To help business users and analysts explore sales performance and customer behavior — supporting decisions on marketing, promotions, and inventory management.
 
 
-## 📌 How to Use
+##  How to Use
 
 1. Download the `.pbix` file from this repository
 2. Open it in [Power BI Desktop]
